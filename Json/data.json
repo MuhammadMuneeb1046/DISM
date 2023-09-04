@@ -1,0 +1,66 @@
+[
+    {
+        "Id":"1",
+        "Name":"Infinix",
+        "Model":"abc 1",
+        "Price":45000,
+        "Image":"images/1.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"2",
+        "Name":"Infinix",
+        "Model":"abc 2",
+        "Price":45000,
+        "Image":"images/2.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"3",
+        "Name":"Infinix",
+        "Model":"abc 3",
+        "Price":45000,
+        "Image":"images/3.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"4",
+        "Name":"Infinix",
+        "Model":"abc 4",
+        "Price":45000,
+        "Image":"images/4.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"5",
+        "Name":"Infinix",
+        "Model":"abc 5",
+        "Price":45000,
+        "Image":"images/5.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"6",
+        "Name":"Infinix",
+        "Model":"abc 6",
+        "Price":45000,
+        "Image":"images/6.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"7",
+        "Name":"Infinix",
+        "Model":"abc 7",
+        "Price":45000,
+        "Image":"images/7.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "Id":"8",
+        "Name":"Infinix",
+        "Model":"abc 8",
+        "Price":45000,
+        "Image":"images/8.jpg",
+        "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]
