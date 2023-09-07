@@ -1,0 +1,10 @@
+create database muneeb
+create table student(
+	id int,
+	name varchar(200),
+	email varchar(100),
+	course varchar(200),
+	fees int,
+	s_status varchar(200),
+	city varchar(100)
+)
